@@ -69,12 +69,6 @@
 
 ###
 
-<div align="left">
-  <img height="300" src="https://media.tenor.com/sGtRK7e6IYoAAAAd/cyberpunk.gif"  />
-</div>
-
-###
-
 <p align="left">Work history:<br>🔭Frontend developer at Szkoła w chmurze - Now<br>🍔Mcdonalds - 07.2023<br>💻Freelance Frontend dev - 2021-2023</p>
 
 ###
