@@ -55,7 +55,7 @@
   <a href="discordapp.com/users/564399986809503765" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1c097d&logoColor=00d8f5&labelColor=6a20c9&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-  <a href="aminmaatallah4@gmail.com" target="_blank">
+  <a href="mailto: aminmaatallah4@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=1c097d&logoColor=00d8f5&labelColor=5032a8&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
