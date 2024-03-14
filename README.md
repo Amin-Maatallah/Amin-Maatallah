@@ -66,6 +66,6 @@
 
 ###
 
-<p align="left">Work history:<br>🔭Frontend developer at Szkoła w chmurze <br>🍔💻Freelance Frontend dev</p>
+<p align="left">Work history:<br>🔭Frontend developer at Szkoła w chmurze <br>💻Freelance Frontend dev</p>
 
 ###
