@@ -40,6 +40,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Amin-Maatallah/Amin-Maatallah/output/snake.svg" alt="Snake animation" />
 
 ###
